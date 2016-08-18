@@ -76,6 +76,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
+	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
 	vendor/samsung/mondrianwifi/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
 	vendor/samsung/mondrianwifi/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
