@@ -25,6 +25,8 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/bin/btnvtool:system/bin/btnvtool \
 	vendor/samsung/mondrianwifi/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
 	vendor/samsung/mondrianwifi/proprietary/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh \
+	vendor/samsung/mondrianwifi/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
+	vendor/samsung/mondrianwifi/proprietary/framework/tcmiface.jar:system/framework/tcmiface.jar \
 	vendor/samsung/mondrianwifi/proprietary/lib/libbtnv.so:system/lib/libbtnv.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
