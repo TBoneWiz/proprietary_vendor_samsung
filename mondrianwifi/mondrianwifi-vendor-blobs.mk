@@ -74,6 +74,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
+	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libOpenVG.so:system/vendor/lib/libOpenVG.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
@@ -218,6 +219,10 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/lib/libdrmdiag.so:system/lib/libdrmdiag.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libdrmtime.so:system/lib/libdrmtime.so \
+
+	vendor/samsung/mondrianwifi/proprietary/lib/libOmxVdec.so:system/lib/libOmxVdec.so \
+	vendor/samsung/mondrianwifi/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
+
 	vendor/samsung/mondrianwifi/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/librpmb.so:system/lib/librpmb.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libssd.so:system/lib/libssd.so \
