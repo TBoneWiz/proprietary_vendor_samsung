@@ -182,6 +182,8 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/lib/libmmcamera_s5k6b2yx.so:system/lib/libmmcamera_s5k6b2yx.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libvdis.so:system/lib/libvdis.so \
+	vendor/samsung/mondrianwifi/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
+	vendor/samsung/mondrianwifi/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libmmcamera_imx134.so:system/vendor/lib/libmmcamera_imx134.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libmmcamera_imx135.so:system/vendor/lib/libmmcamera_imx135.so \
